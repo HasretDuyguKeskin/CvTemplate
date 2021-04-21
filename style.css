@@ -1,0 +1,28 @@
+html, body, h1, h2, h3, h4, h5, h6, p{
+    font-family:'Roboto',sans-serif;
+}
+
+body {
+    background-color: #f1f1f1;   
+}
+
+h2{
+    font-size: 30px;
+}
+h6{
+    font-size: 15px;
+}
+
+.card-img-overlay{
+    top: 175px !important;
+}
+
+.progress-bar{
+    background-color: #009688;
+}
+
+footer{
+    background-color: #009688;
+}
+
+
